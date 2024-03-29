@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there 
 
 <!--
 **HappyFrontedCoding/HappyFrontedCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on digital twins and geographic information system.
+- 🌱 I’m currently learning computer graphics.
+-   :pencil2: C++ / Qt / Unreal Engine / React / Vue / Node.js
+  
+### :pencil: [Latest blog posts](https://ouuan.moe?utm_source=GitHubProfile)
+
+<!--START_SECTION:blog-posts-->
+<!--END_SECTION:blog-posts-->
+---
