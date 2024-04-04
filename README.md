@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on digital twins and geographic information system.
 - 🌱 I’m currently learning computer graphics.
--   :pencil2: C++ / Qt / Unreal Engine / React / Vue / Node.js
+-   :pencil2: C++ / Qt / Unreal Engine / React / Vue / Node.js / GIS
   
 ### :pencil: [Latest blog posts](https://ouuan.moe?utm_source=GitHubProfile)
 
